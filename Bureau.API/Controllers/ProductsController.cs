@@ -3,6 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Bureau.API.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Bureau.API.Controllers
 {
@@ -17,6 +18,7 @@ namespace Bureau.API.Controllers
             _context = context;
         }
 
+        [Authorize("Bearer")]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Product>>> GetProducts()
         {
