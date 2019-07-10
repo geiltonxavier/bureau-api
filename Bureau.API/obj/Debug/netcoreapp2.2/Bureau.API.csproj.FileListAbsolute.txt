@@ -1,0 +1,14 @@
+C:\Projetos\Bureau\Bureau.API\bin\Debug\netcoreapp2.2\Bureau.API.deps.json
+C:\Projetos\Bureau\Bureau.API\bin\Debug\netcoreapp2.2\Bureau.API.runtimeconfig.json
+C:\Projetos\Bureau\Bureau.API\bin\Debug\netcoreapp2.2\Bureau.API.runtimeconfig.dev.json
+C:\Projetos\Bureau\Bureau.API\bin\Debug\netcoreapp2.2\Bureau.API.dll
+C:\Projetos\Bureau\Bureau.API\bin\Debug\netcoreapp2.2\Bureau.API.pdb
+C:\Projetos\Bureau\Bureau.API\obj\Debug\netcoreapp2.2\Bureau.API.csprojAssemblyReference.cache
+C:\Projetos\Bureau\Bureau.API\obj\Debug\netcoreapp2.2\Bureau.API.csproj.CoreCompileInputs.cache
+C:\Projetos\Bureau\Bureau.API\obj\Debug\netcoreapp2.2\Bureau.API.RazorAssemblyInfo.cache
+C:\Projetos\Bureau\Bureau.API\obj\Debug\netcoreapp2.2\Bureau.API.RazorAssemblyInfo.cs
+C:\Projetos\Bureau\Bureau.API\obj\Debug\netcoreapp2.2\Bureau.API.AssemblyInfoInputs.cache
+C:\Projetos\Bureau\Bureau.API\obj\Debug\netcoreapp2.2\Bureau.API.AssemblyInfo.cs
+C:\Projetos\Bureau\Bureau.API\obj\Debug\netcoreapp2.2\Bureau.API.RazorTargetAssemblyInfo.cache
+C:\Projetos\Bureau\Bureau.API\obj\Debug\netcoreapp2.2\Bureau.API.dll
+C:\Projetos\Bureau\Bureau.API\obj\Debug\netcoreapp2.2\Bureau.API.pdb
